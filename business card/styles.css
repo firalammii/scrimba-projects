@@ -1,0 +1,29 @@
+section {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+.root-container {
+    border-radius: 10px;
+    width: 470px;
+    background-color: cyan;
+    border-bottom: 10px solid gray;
+}
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+    /* border: 1px solid blue; */
+    margin: 10px 10px 0 10px;
+}
+
+img {
+    /* border: 2px solid green; */
+    border-radius: 8px;
+    width:150px
+}
+.text-container {
+    /* border: 1px solid blue; */
+    margin-left:auto;
+    margin-right: 10px;
+}
