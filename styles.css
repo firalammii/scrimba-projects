@@ -1,0 +1,4 @@
+.anchor-container {
+    display: flex;
+    flex-direction: column;
+}

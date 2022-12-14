@@ -1,0 +1,1 @@
+document.querySelectorAll(".anchor-container").forEach((item) => item.style.display = "block");
