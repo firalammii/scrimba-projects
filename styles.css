@@ -1,4 +1,11 @@
 .anchor-container {
+    margin: 10px;
     display: flex;
     flex-direction: column;
+    font-size: large;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    .anchors {
+        margin: 10px;
 }
