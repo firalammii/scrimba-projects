@@ -1,0 +1,48 @@
+body {
+    margin: 10px;
+    color: rgb(8, 160, 2);
+}
+
+.input-el {
+    min-width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    display: block;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border-color: rgb(8, 160, 2);
+}
+
+.btn-el {
+    padding: 15px 40px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: rgb(8, 160, 2);
+    border: none;
+}
+
+.li-el {
+    margin-bottom: 10px;
+    font-size: 24px;
+    /* color: rgb(8, 160, 2); */
+}
+
+a {
+    color: rgb(8, 160, 2);
+}
+
+a:hover {
+    color: rgb(105, 126, 105);
+}
+
+a:visited {
+    color: rgb(159, 8, 8);
+}
+
+/* a:hover {
+    color: rgb(3, 14, 3);
+}
+
+a:hover {
+    color: rgb(3, 14, 3);
+} */

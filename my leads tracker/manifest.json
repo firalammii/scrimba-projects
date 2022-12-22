@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Leads tracker",
+    "action": {
+        "default_popup": "leads-tracker.html",
+        "default_icon": "happy-team-8-people-logo-260nw-243048334.webp"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
